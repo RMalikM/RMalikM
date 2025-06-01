@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rmalik252" target="blank"><img align="center" src="https://github.com/RMalikM/RMalikM/blob/main/images/icons8-linkedin-48.png" alt="http://www.linkedin.com/in/rmalik252" height="30" width="40" /></a>
 
-<a href="https://github.com/RMalikM"> target="blank"><img align="center" src="https://github.com/RMalikM/RMalikM/blob/main/images/icons8-github-48.png" alt="https://github.com/RMalikM" height="30" width="40" /></a>
+<a href="https://github.com/RMalikM" target="blank"><img align="center" src="https://github.com/RMalikM/RMalikM/blob/main/images/icons8-github-48.png" alt="https://github.com/RMalikM" height="30" width="40" /></a>
 
-<a href="https://medium.com/@rmalik252"> target="blank"><img align="center" src="https://github.com/RMalikM/RMalikM/blob/main/images/icons8-medium-64.png" alt="https://medium.com/@rmalik252" height="30" width="40" /></a>
+<a href="https://medium.com/@rmalik252" target="blank"><img align="center" src="https://github.com/RMalikM/RMalikM/blob/main/images/icons8-medium-64.png" alt="https://medium.com/@rmalik252" height="30" width="40" /></a>
 </p>
