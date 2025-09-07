@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Malik</h1>
 <h3 align="center">Experienced Data Scientist with over 5 years in Research and Development across computer vision, speech recognition, and NLP with LLM-based applications, driving innovation through cutting-edge AI solutions and delivering impactful results across diverse use cases.</h3>
 
-- 🌱 I’m currently learning **AWS Lambda, Docker, FastAPI**
+- 🌱 I’m currently learning **LangGraph, Agentic AI**
 
 - 📫 How to reach me **rmalik252@gmail.com**
 
